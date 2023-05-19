@@ -7,7 +7,6 @@ Front-end/Programmer
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [My Portfolio](http://rusprogger.github.io/portfolio-me/)
 * 🧠  I'm learning C++, Python, English
-* 🤝  I'm open to collaborating on Yes
 
 ### Skills
 
