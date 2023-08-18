@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="С++">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
 </h3>
 
 <h3> 💾 Работаю в операционных системах: </br></br>
@@ -54,5 +55,25 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" alt="photoshop">
   <img src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge" alt="photopedia">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="figma">
+</h3>
+
+<h3> 📞 Контакты для связи: </br></br>
+  <a href="mailto:ruslantimka92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="gmail">
+  </a>
+
+   <a href="https://www.facebook.com/addin.whites/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge" alt="facebook">
+  </a>
+
+   <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="telegram">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff&style=for-the-badge" alt=viber">
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge" alt=skype">
+  </a>
 </h3>
 
