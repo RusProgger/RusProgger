@@ -9,8 +9,8 @@
   <a href="https://www.youtube.com/channel/UC0PNHhJVhpDuubpSwe7XB2Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="skype: timkanik92?call">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="skype"/>
+  <a href="https://github.com/RusProgger">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="github">
   </a>
 </div>
 <div id="table1" align="center">
