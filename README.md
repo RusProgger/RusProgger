@@ -73,7 +73,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff&style=for-the-badge" alt=viber">
   </a>
-   <a href="">
+   <a href="skype:timkanik92?chat">
     <img src="https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge" alt=skype">
   </a>
 </h3>
