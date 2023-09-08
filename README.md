@@ -27,12 +27,12 @@
 
 <h3> :hammer_and_wrench: Мой стек технологии : </br></br>
   <img src="https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397" alt="html">
-  <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge" alt="pug">
+<!--   <img src="https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge" alt="pug"> -->
   <img src="https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126" alt="css">
   <img src="https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5" alt="sass">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">  
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
-  <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge" alt="gulp">
+<!--   <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=for-the-badge" alt="gulp"> -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="bootstrap">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="git">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="github">
