@@ -18,12 +18,12 @@
 </div>
 
 <h1 align="center">
-  Добро пожаловать меня зовут Руслан Вороненко
+  Hi! My name is Ruslan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </h1>
 
-### 👩‍💻 Обо мне :
-  Я front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> живу в Украине.
+### 👩‍💻 Обо мне:
+  Im frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> i live in Ukraine
 
 <h3> :hammer_and_wrench: Мой стек технологии : </br></br>
   <img src="https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397" alt="html">
@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="С++">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="python">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java">
+  
 </h3>
 
 <h3> 💾 Работаю в операционных системах: </br></br>
