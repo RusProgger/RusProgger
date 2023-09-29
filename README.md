@@ -80,9 +80,4 @@
   </a>
 </h3>
 
-## Hello 
-  <p>
-    <a href="">
-      <img alt="Discourse users" src="https://img.shields.io/discourse/users">
-    </a>  
   
