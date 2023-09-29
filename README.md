@@ -83,6 +83,6 @@
 ## Hello 
   <p>
     <a href="">
-      <img src="https://img.shields.io/discourse/users" alt="htht">
+      <img alt="Discourse users" src="https://img.shields.io/discourse/users">
     </a>  
   
