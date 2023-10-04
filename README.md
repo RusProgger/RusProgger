@@ -7,7 +7,7 @@
 Hi! My name is Ruslan ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 =====================================================================================
 
-\### 👩‍💻 Обо мне: Im frontend-developer ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) i live in Ukraine
+\### 👩‍💻 Обо мне: Im frontend-developer, i live in Ukraine. <span style="display:block;text-align:center"> ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) </span> 
 
 ### :hammer\_and\_wrench: Мой стек технологии :  
   
