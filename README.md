@@ -22,7 +22,7 @@ Hi! My name is Ruslan ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
   
 ![zorinos](https://img.shields.io/badge/Zorin-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge) ![linuxmint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge) ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 
-### 📹 Графичееские редакторы:  
+### 📹 Графические редакторы:  
   
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge) ![photopedia](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge) ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
