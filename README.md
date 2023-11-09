@@ -17,6 +17,7 @@ Hi! My name is Ruslan ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 ### 💻 Языки программирования :  
   
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge) ![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GO](https://img.shields.io/badge/Goland-87b5ff?style=for-the-badge&logo=openjdk&logoColor=blue)
 
 ### 💾 Работаю в операционных системах:  
   
