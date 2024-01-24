@@ -1,8 +1,8 @@
 ### Hi there 👋. I'm Ruslan
 
-## I'm FrontEnd Developer, programmer
-- ✍️ I like to write code
-- 📖 I am constanthy learning new things
+## I'm Frontend Developer, programmer
+- ✍️ I like writing code
+- 📖 I learn new program`s languages constantly
 
 ![](https://komarev.com/ghpvc/?username=RusProgger&style=flat-square&color=blue)
 
@@ -38,7 +38,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 
-### 🖥️ I work on operating systems:  
+### 🖥️ I work with the operating systems:  
   
 ![zorinos](https://img.shields.io/badge/Zorin-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge) 
 ![linuxmint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge) 
