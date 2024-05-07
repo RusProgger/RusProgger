@@ -10,10 +10,10 @@
 ### 📞 Connect with me:  
   
  [![facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/addin.whites/)
- <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](skype:timkanik92?userinfo) -->
- [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ](https://t.me/AndroNimus1)
- <!-- [![viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff&style=for-the-badge) ](viber://chat?number=%2B380939703641) -->
+  [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge) ](https://t.me/AndroNimus1)
  [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:ruslantimka92@gmail.com)
+ <!-- [![viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff&style=for-the-badge) ](viber://chat?number=%2B380939703641) -->
+ <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) -->
 
 
 ###  🛠️ Skills:
