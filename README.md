@@ -38,8 +38,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge) 
 ![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) 
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![GoLand Badge](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=for-the-badge)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![GoLand](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=for-the-badge)
 
 ### 🖥️ I work with the operating systems:  
   
