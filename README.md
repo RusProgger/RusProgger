@@ -7,19 +7,19 @@
 ![](https://komarev.com/ghpvc/?username=RusProgger&style=flat-square&color=blue)
 
 
-<!--
+
 ### 📞 Connect with me:  
   
-  [![facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/)
+  <!-- [![facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/) -->
   [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:dmitriiiassenev1985@gmail.com)
   [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/java_it_uk)
-  [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) -->
+  [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge)](https://skype:timkanik92?userinfo)
  
  <!-- [![viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff&style=for-the-badge) ](viber://chat?number=%2B380) -->
- <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) -->
+ <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) --> 
 
 
-###  🛠️ Tech Skills:
+###  🛠️ Tech Stack:
   
 ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397) 
 ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge) 
