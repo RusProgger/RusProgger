@@ -24,7 +24,6 @@
 ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126) 
 ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5) 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)     
 ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
 ![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) 
@@ -40,6 +39,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GoLand](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=for-the-badge)
 
 ### 🖥️ I work with the operating systems:  
