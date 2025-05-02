@@ -13,6 +13,7 @@
   <!-- [![facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/) -->
   [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:dmitriiiassenev1985@gmail.com)
   [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/java_it_uk)
+  ![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@progerlife6690)
  
  <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) --> 
 
