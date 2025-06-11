@@ -26,8 +26,24 @@ end -->
  <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) --> 
 
 
-###  🛠️ Tech Stack:
+###  ⚙️ Tech Stack:
+<details>
   
+  <summary>🖥️ Front-end (click on) </summary>
+  
+  <br>
+  
+  ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397)
+  ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
+  ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126)
+  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+  ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+  ![BEM Badge](https://img.shields.io/badge/BEM-000?logo=bem&logoColor=fff&style=for-the-badge)
+  
+</details>
+
+<!-- 
 ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397) 
 ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge) 
 ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126) 
@@ -44,8 +60,8 @@ end -->
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
 ![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+-->
 <!--![React Bootstrap Badge](https://img.shields.io/badge/React%20Bootstrap-41E0FD?logo=reactbootstrap&logoColor=000&style=for-the-badge) -->
-
 
 
 
