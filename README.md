@@ -76,4 +76,6 @@ end -->
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusProgger)](https://github.com/RusProgger/github-readme-stats)
+
 
