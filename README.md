@@ -75,8 +75,9 @@ end -->
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=for-the-badge)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
+### ℹ️ Graphic Design Editor: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusProgger&show_icons=true&bg_color=00000000)](https://github.com/RusProgger/github-readme-stats&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&langs_count=8&bg_color=00000000)](https://github.com/RusProgger/github-readme-stats&langs_count=8&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&langs_count=8&bg_color=00000000&layout=compact)](https://github.com/RusProgger/github-readme-stats&langs_count=8&bg_color=00000000&layout=compact)
 
 
