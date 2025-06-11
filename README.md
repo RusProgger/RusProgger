@@ -1,9 +1,13 @@
 ### Hi there 👋. I'm Ruslan
 
 ## I'm Frontend Developer, programmer
-- ✍️ I like writing code
+<!-- - ✍️ I like writing code
 - 📖 I learn new program`s languages constantly
-
+end -->
+✍️ I love writing clean and efficient code
+📖 Constantly learning new programming languages and technologies
+⚙️ Exploring low-level systems, performance, and cybersecurity
+🌐 Building modern, adaptive, and accessible user interfaces
 ![](https://komarev.com/ghpvc/?username=RusProgger&style=flat-square&color=blue)
 
 
