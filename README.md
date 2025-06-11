@@ -68,6 +68,16 @@ end -->
   
 </details>
 
+<details>
+  <summary>🧑‍💻 Version Control:</summary>
+
+  <br>
+  
+  ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
+  ![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) 
+  
+</details>
+
 <!-- 
 ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397) 
 ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge) 
