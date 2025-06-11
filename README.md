@@ -33,9 +33,10 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
-<!--![React Bootstrap Badge](https://img.shields.io/badge/React%20Bootstrap-41E0FD?logo=reactbootstrap&logoColor=000&style=for-the-badge) -->
-![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) 
+![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+<!--![React Bootstrap Badge](https://img.shields.io/badge/React%20Bootstrap-41E0FD?logo=reactbootstrap&logoColor=000&style=for-the-badge) -->
+
 
 
 
