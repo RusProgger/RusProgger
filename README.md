@@ -8,6 +8,7 @@ end -->
 - 📖 Constantly learning new programming languages and technologies
 - ⚙️ Exploring low-level systems, performance, and cybersecurity
 - 🌐 Building modern, adaptive, and accessible user interfaces
+- ✈️ I love **traveling** and discovering new places around the world
 
 ![](https://komarev.com/ghpvc/?username=RusProgger&style=flat-square&color=blue)
 
