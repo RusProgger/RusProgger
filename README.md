@@ -43,6 +43,21 @@ end -->
   
 </details>
 
+
+<details>
+  
+  <summary>🤹‍♂️ JavaScript / Frameworks: (click on) </summary>
+
+  <br>
+  
+  ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+  ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
+  
+</details>
+
 <!-- 
 ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397) 
 ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge) 
