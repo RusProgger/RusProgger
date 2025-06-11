@@ -1,3 +1,5 @@
+![images](https://github.com/RusProgger/RusProgger/blob/site/499995670_9521682207943723_3238951708364683097_n.jpg)
+
 ### Hi there 👋. I'm Ruslan
 
 ## A frontend developer with a passion for programming
