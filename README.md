@@ -76,6 +76,7 @@ end -->
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusProgger)](https://github.com/RusProgger/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusProgger&show_icons=true&bg_color=00000000)](https://github.com/RusProgger/github-readme-stats&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&langs_count=8&bg_color=00000000)](https://github.com/RusProgger/github-readme-stats&langs_count=8&bg_color=00000000)
 
 
