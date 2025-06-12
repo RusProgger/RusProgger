@@ -38,7 +38,7 @@ end -->
   ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
   ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-  ![BEM Badge](https://img.shields.io/badge/BEM-000?logo=bem&logoColor=fff&style=for-the-badge)
+  ![BEM Badge](https://img.shields.io/badge/BEM-F7DF1E?logo=bem&logoColor=fff&style=for-the-badge)
   
 </details>
 
