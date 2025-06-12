@@ -79,6 +79,7 @@ end -->
   ![MJML](https://img.shields.io/badge/MJML-FF6300?logo=mjml&logoColor=fff&style=for-the-badge)
   ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
   ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
+  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
   
 </details>
 
