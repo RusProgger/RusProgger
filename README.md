@@ -143,11 +143,12 @@ end -->
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 
-### 💼 My projects:
+### 💼 My Projects
 
-🔗 [Auto-service](https://rusprogger.github.io/automaster/) : 📂 [Repository](https://github.com/RusProgger/automaster)
-<br>
-🔗 [We need the tonic of wildnes](https://rusprogger.github.io/blacksea/) : 📂 [Repository](https://github.com/RusProgger/blacksea)
+🔗 [Auto-service](https://rusprogger.github.io/automaster/) — 📂 [Repository](https://github.com/RusProgger/automaster)  
+🔗 [We need the tonic of wildness](https://rusprogger.github.io/blacksea/) — 📂 [Repository](https://github.com/RusProgger/blacksea)
+
+
 
 
 ### ℹ️ Info: 
