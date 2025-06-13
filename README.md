@@ -145,8 +145,8 @@ end -->
 
 ### 💼 My Projects
 
-🔗 [Auto-service](https://rusprogger.github.io/automaster/) — 📂 [Repository](https://github.com/RusProgger/automaster)  
-🔗 [We need the tonic of wildness](https://rusprogger.github.io/blacksea/) — 📂 [Repository](https://github.com/RusProgger/blacksea)
+🔗 [Auto-service](https://rusprogger.github.io/automaster/) —> 📂 [Repository](https://github.com/RusProgger/automaster)  
+🔗 [We need the tonic of wildness](https://rusprogger.github.io/blacksea/) —> 📂 [Repository](https://github.com/RusProgger/blacksea)
 
 
 
