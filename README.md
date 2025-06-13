@@ -145,8 +145,8 @@ end -->
 
 ### 💼 My projects:
 
-🔗 [Auto-service](https://rusprogger.github.io/automaster/)  
-📂 [Репозиторий](https://github.com/RusProgger/automaster)
+🔗 [Auto-service](https://rusprogger.github.io/automaster/) : 📂 [Репозиторий](https://github.com/RusProgger/automaster)
+
 
 ### ℹ️ Info: 
 
