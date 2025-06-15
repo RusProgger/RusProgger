@@ -23,7 +23,7 @@ end -->
   [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/java_it_uk)
   [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@progerlife6690)
  
- <!-- [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) --> 
+  [![skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=fff&style=for-the-badge) ](https://skype:timkanik92?userinfo) 
 
 
 ###  ⚙️ Tech Stack:
