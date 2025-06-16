@@ -89,6 +89,7 @@ end -->
   ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
   ![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) 
   
+</details>
 
 ### 🖥️ Operating systems:  
   
@@ -102,11 +103,9 @@ end -->
   
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge) 
 ![photopedia](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge) 
-![Adobe After Effects Badge](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
+![Daz Studio](https://img.shields.io/badge/-Daz%20Studio-000000?style=for-the-badge&logoColor=white)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=for-the-badge)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
-![Daz Studio](https://img.shields.io/badge/-Daz%20Studio-000000?style=for-the-badge&logoColor=white)
-
 
 
 ### 💼 My Projects
@@ -116,9 +115,6 @@ end -->
 🔗 [MNTN website](https://rusprogger.github.io/MNTN-website/) - 📂 [Repository](https://github.com/RusProgger/MNTN-website)  
 🔗 [Landing template for startups](https://rusprogger.github.io/template-website-solid/) - 📂 [Repository](https://github.com/RusProgger/template-website-solid)  
 🔗 [Layout Design](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
-
-
-
 
 
 ### ℹ️ Info: 
