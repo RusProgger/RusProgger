@@ -132,7 +132,7 @@ end -->
 ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
 <!-- ![kalli linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge) -->
 
-### 🎨 Graphic Design Editor:  
+### 🎨 Graphic Design Tools:  
   
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge) 
 ![photopedia](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge) 
