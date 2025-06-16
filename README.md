@@ -89,18 +89,6 @@ end -->
   ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
   ![github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) 
   
-</details>
-
-
-<details>
-  <summary>### 🖥️ Operating systems: </summary>
-
-  <br>
-  
-  ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
-  ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)
-  
-</details>
 
 ### 🖥️ Operating systems:  
   
