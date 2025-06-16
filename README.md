@@ -139,6 +139,8 @@ end -->
 ![Adobe After Effects Badge](https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=for-the-badge)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+![Daz Studio](https://img.shields.io/badge/-Daz%20Studio-000000?style=flat&logoColor=white)
+
 
 
 ### 💼 My Projects
