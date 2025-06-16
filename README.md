@@ -124,7 +124,7 @@ end -->
 ![GoLand](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=for-the-badge)
 -->
 
-### 🖥️ I work with the operating systems:  
+### 🖥️ Operating systems:  
   
 <!-- ![zorinos](https://img.shields.io/badge/Zorin-15A6F0?logo=zorin&logoColor=fff&style=for-the-badge) -->
 <!-- ![linuxmint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff&style=for-the-badge) --> 
