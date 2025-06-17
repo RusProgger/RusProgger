@@ -115,7 +115,7 @@ end -->
 🔗 [MNTN website](https://rusprogger.github.io/MNTN-website/) - 📂 [Repository](https://github.com/RusProgger/MNTN-website)  
 🔗 [Landing template for startups](https://rusprogger.github.io/template-website-solid/) - 📂 [Repository](https://github.com/RusProgger/template-website-solid)  
 🔗 [Layout Design](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
-
+🔗 [Strict](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
 
 ### ℹ️ Info: 
 
