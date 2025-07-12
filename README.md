@@ -118,6 +118,7 @@ end -->
 🔗 [Layout Design](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
 🔗 [Strict](https://rusprogger.github.io/strictwebsite/) - 📂 [Repository](https://github.com/RusProgger/strictwebsite)  
 🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
+🔗 [weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
 
 ### ℹ️ Info: 
 
