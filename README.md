@@ -117,6 +117,7 @@ end -->
 🔗 [Landing template for startups](https://rusprogger.github.io/template-website-solid/) - 📂 [Repository](https://github.com/RusProgger/template-website-solid)  
 🔗 [Layout Design](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
 🔗 [Strict](https://rusprogger.github.io/strictwebsite/) - 📂 [Repository](https://github.com/RusProgger/strictwebsite)  
+🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
 
 ### ℹ️ Info: 
 
