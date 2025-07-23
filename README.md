@@ -119,7 +119,7 @@ end -->
 🔗 [Strict](https://rusprogger.github.io/strictwebsite/) - 📂 [Repository](https://github.com/RusProgger/strictwebsite)  
 🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
 🔗 [Weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
-🔗 [Weather and location](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
+🔗 [Remcomp](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
 
 ### ℹ️ Info: 
 
