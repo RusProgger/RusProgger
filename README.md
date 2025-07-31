@@ -124,6 +124,6 @@ end -->
 ### ℹ️ Info: 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusProgger&show_icons=true&bg_color=00000000)](https://github.com/RusProgger/github-readme-stats&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&langs_count=8&bg_color=00000000&layout=compact)](https://github.com/RusProgger/github-readme-stats&langs_count=8&bg_color=00000000&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&langs_count=9&bg_color=00000000&layout=compact)](https://github.com/RusProgger/github-readme-stats&langs_count=9&bg_color=00000000&layout=compact)
 
 
