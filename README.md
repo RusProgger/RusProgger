@@ -112,7 +112,7 @@ end -->
 ### 💼 My Projects
 
 <details>
-  <summary>🖥️ Front-end work </summary>
+  <summary>🖥️ Front-end projects</summary>
   
   <br>
 
@@ -125,6 +125,27 @@ end -->
 🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
 🔗 [Weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
 🔗 [Remcomp](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/remcomp)  
+
+  <br>
+
+</details>
+
+<details>
+  <summary>🛠️ C++ projects</summary>
+  
+  <br>
+
+🔗 [Auto-service](https://rusprogger.github.io/automaster/) - 📂 [Repository](https://github.com/RusProgger/automaster)  
+🔗 [We need the tonic of wildness](https://rusprogger.github.io/blacksea/) - 📂 [Repository](https://github.com/RusProgger/blacksea)  
+🔗 [MNTN website](https://rusprogger.github.io/MNTN-website/) - 📂 [Repository](https://github.com/RusProgger/MNTN-website)  
+🔗 [Landing template for startups](https://rusprogger.github.io/template-website-solid/) - 📂 [Repository](https://github.com/RusProgger/template-website-solid)  
+🔗 [Layout Design](https://rusprogger.github.io/WDSITE/) - 📂 [Repository](https://rusprogger.github.io/WDSITE/)  
+🔗 [Strict](https://rusprogger.github.io/strictwebsite/) - 📂 [Repository](https://github.com/RusProgger/strictwebsite)  
+🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
+🔗 [Weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
+🔗 [Remcomp](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/remcomp)  
+
+  <br>
 
 </details>
 
