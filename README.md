@@ -111,6 +111,11 @@ end -->
 
 ### 💼 My Projects
 
+<details>
+  <summary>🖥️ Front-end work </summary>
+  
+  <br>
+
 🔗 [Auto-service](https://rusprogger.github.io/automaster/) - 📂 [Repository](https://github.com/RusProgger/automaster)  
 🔗 [We need the tonic of wildness](https://rusprogger.github.io/blacksea/) - 📂 [Repository](https://github.com/RusProgger/blacksea)  
 🔗 [MNTN website](https://rusprogger.github.io/MNTN-website/) - 📂 [Repository](https://github.com/RusProgger/MNTN-website)  
@@ -120,6 +125,9 @@ end -->
 🔗 [Fantastic Designs](https://rusprogger.github.io/flexlandingpage/) - 📂 [Repository](https://github.com/RusProgger/flexlandingpage)  
 🔗 [Weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
 🔗 [Remcomp](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/remcomp)  
+
+</details>
+
 
 ### ℹ️ Info: 
 
