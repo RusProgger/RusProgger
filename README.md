@@ -126,7 +126,6 @@ end -->
 🔗 [Weather and location](https://rusprogger.github.io/theweather/) - 📂 [Repository](https://github.com/RusProgger/theweather)  
 🔗 [Remcomp](https://rusprogger.github.io/remcomp/) - 📂 [Repository](https://github.com/RusProgger/remcomp)  
 
-  <br>
 
 </details>
 
