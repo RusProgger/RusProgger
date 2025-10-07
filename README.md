@@ -33,7 +33,6 @@ end -->
   
   ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397)
   ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126)
-  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
   ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
   ![BEM Badge](https://img.shields.io/badge/BEM-F7DF1E?logo=bem&logoColor=000&style=for-the-badge)
@@ -76,6 +75,7 @@ end -->
   
   ![MJML](https://img.shields.io/badge/MJML-FF6300?logo=mjml&logoColor=fff&style=for-the-badge)
   ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
+  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
   ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
