@@ -79,7 +79,7 @@ end -->
   ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
-  ![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white)
+  <!-- ![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
   ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge)
   
 </details>
