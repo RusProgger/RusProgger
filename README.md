@@ -2,7 +2,7 @@
 
 ### Hi 👋. I'm Ruslan
 
-## A frontend developer with a passion for programming
+## C/C++ learner passionate about systems, performance
 <!-- - ✍️ I like writing code
 - 📖 I learn new program`s languages constantly
 end -->
