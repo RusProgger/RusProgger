@@ -27,7 +27,7 @@ end -->
 ###  ⚙️ Tech Stack:
 <details>
   
-  <summary>🖥️ Front-end (click on) </summary>
+  <summary>🖥️ Front-end: </summary>
   
   <br>
   
@@ -59,7 +59,7 @@ end -->
 
 <details>
   
-  <summary>📝 Programming languages: (click on) </summary>
+  <summary>📝 Programming languages: </summary>
 
   <br>
   
@@ -72,7 +72,7 @@ end -->
 
 
 <details>
-  <summary>🔧 Template Engines / Tools:</summary>
+  <summary>🔧 Tools: </summary>
 
   <br>
   
@@ -112,13 +112,21 @@ end -->
   
 </details>
 
-### 🎨 Graphic Design Tools:  
+<!-- ### 🎨 Graphic Design Tools:  -->
+
+<details>
+  <summary>🎨 Graphic Design Tools:  </summary>
+
+  <br>
+
+  ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge) 
+  ![photopedia](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge) 
+  ![Daz Studio](https://img.shields.io/badge/-Daz%20Studio-000000?style=for-the-badge&logoColor=white)
+  ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=for-the-badge)
+  ![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
   
-![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge) 
-![photopedia](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=fff&style=for-the-badge) 
-![Daz Studio](https://img.shields.io/badge/-Daz%20Studio-000000?style=for-the-badge&logoColor=white)
-![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=for-the-badge)
-![figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
+</details>
+  
 
 
 ### 💼 My Projects
