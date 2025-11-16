@@ -51,6 +51,9 @@ end -->
   ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+  ![MJML](https://img.shields.io/badge/MJML-FF6300?logo=mjml&logoColor=fff&style=for-the-badge)
+  ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
+  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
 
 </details> -->
 
@@ -73,9 +76,6 @@ end -->
 
   <br>
   
-  ![MJML](https://img.shields.io/badge/MJML-FF6300?logo=mjml&logoColor=fff&style=for-the-badge)
-  ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
-  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
   ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
