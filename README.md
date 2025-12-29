@@ -67,6 +67,7 @@ end -->
   ![С++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
   ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
   
 </details>
 
