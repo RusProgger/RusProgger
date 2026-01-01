@@ -150,6 +150,8 @@ end -->
 
 </details>
 
+<!--
+
 <details>
   <summary>🛠️ C++ projects</summary>
   
@@ -167,6 +169,8 @@ end -->
 
 
 </details>
+
+-->
 
 
 
