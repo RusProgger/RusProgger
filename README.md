@@ -2,7 +2,7 @@
 
 ### Hi 👋. I'm Ruslan
 
-## C/C++ learner passionate about systems, performance
+<!--## C/C++ learner passionate about systems, performance-->
 <!-- - ✍️ I like writing code
 - 📖 I learn new program`s languages constantly
 end -->
@@ -16,12 +16,12 @@ end -->
 
 
 
-### 📞 Connect with me:  
+<!-- ### 📞 Connect with me:  -->
   
   <!-- [![facebook](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=for-the-badge)](https://www.facebook.com/) -->
-  [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:dmitriiiassenev1985@gmail.com)
+ <!-- [![gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:dmitriiiassenev1985@gmail.com)
   [![telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge)](https://t.me/java_it_uk)
-  [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@progerlife6690)
+  [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://www.youtube.com/@progerlife6690) -->
  
 
 ###  ⚙️ Tech Stack:
