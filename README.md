@@ -53,6 +53,8 @@ Here's a bit more about me:
   ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
   ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge) 
 
+  ![Build](https://github.com/RusProgger/<REPO>/actions/workflows/build.yml/badge.svg)
+
   
 </details>
 
