@@ -1,11 +1,10 @@
 ![images](https://github.com/RusProgger/RusProgger/blob/site/499995670_9521682207943723_3238951708364683097_n.jpg)
 
-### Hi 👋. I'm Ruslan
+---
 
-<!--## C/C++ learner passionate about systems, performance-->
-<!-- - ✍️ I like writing code
-- 📖 I learn new program`s languages constantly
-end -->
+### Hi 👋.
+
+
 - ✍️ I love writing clean and efficient code
 - 📖 Constantly learning new programming languages and technologies
 - ⚙️ Exploring low-level systems, performance, and cybersecurity
