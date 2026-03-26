@@ -44,7 +44,7 @@ Here's a bit more about me:
 
 </details>
 
-<details>
+<details open>
   <summary>🖥️ Operating systems: </summary>
   
   <br>
