@@ -34,7 +34,7 @@ Here's a bit more about me:
   ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
   ![valgrind Badge](https://img.shields.io/badge/valgrind-a89332?logo=valgrind&logoColor=fff&style=for-the-badge)
-  ![vcpkg Badge](https://img.shields.io/badge/vcpkg-3776AB?logo=vcpkg&logoColor=fff&style=for-the-badge)
+  ![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logo=vcpkg&logoColor=fff&style=for-the-badge)
   ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
   ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
   ![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge) 
@@ -52,6 +52,7 @@ Here's a bit more about me:
   
   ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
   ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge) 
+
   
 </details>
 
