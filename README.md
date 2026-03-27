@@ -1,4 +1,6 @@
-![images](https://github.com/RusProgger/RusProgger/blob/site/499995670_9521682207943723_3238951708364683097_n.jpg)
+<!-- ![images](https://github.com/RusProgger/RusProgger/blob/site/499995670_9521682207943723_3238951708364683097_n.jpg) -->
+![images](https://github.com/RusProgger/RusProgger/blob/site/5r1b8.jpg)
+
 
 # Hi there! 👋
 
