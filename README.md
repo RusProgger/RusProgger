@@ -26,8 +26,9 @@ Here's a bit more about me:
   ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
   ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
   ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
-  <!-- ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-  <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
+  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
 </details>
 
 <details open>
@@ -42,6 +43,7 @@ Here's a bit more about me:
   ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
   ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
   ![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge) 
+  <!--![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
   <!-- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge) -->
   <!-- ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge) -->
   <!-- ![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
