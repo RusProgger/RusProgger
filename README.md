@@ -24,11 +24,12 @@ Here's a bit more about me:
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
   ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
   ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
-  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
+  ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge)
+  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
+  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
+  <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
 </details>
 
 <details open>
