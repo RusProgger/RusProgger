@@ -40,7 +40,7 @@
   <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
 </details>
 
-<!-- Scripting & Automation -->
+<!-- Скриптинг и автоматизация процессов -->
 
 <details open> 
 <summary> 🐍 Скриптинг и автоматизация процессов: </summary>
