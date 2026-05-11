@@ -91,7 +91,7 @@
   [![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logo=vcpkg&logoColor=fff&style=for-the-badge)](https://vcpkg.io/en/)
   [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)](https://gitlab.com/)
   [![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](https://git-scm.com/)
-  [![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge)]()
+  [![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/)
   <!--![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
   <!-- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge) -->
   <!-- ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge) -->
