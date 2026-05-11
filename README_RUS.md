@@ -35,8 +35,8 @@
   <br>
   
   [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)](https://en.cppreference.com/c)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)(https://isocpp.org/)
-  ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)(https://rust-lang.org/learn/)
+  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://isocpp.org/)
+  [![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)](https://rust-lang.org/learn/)
   <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
 </details>
 
