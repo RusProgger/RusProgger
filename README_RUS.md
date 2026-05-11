@@ -87,8 +87,8 @@
   
   [![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)](https://cmake.org/getting-started/)
   [![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)](https://www.docker.com/get-started/)
-  [![valgrind Badge](https://img.shields.io/badge/valgrind-a89332?logo=valgrind&logoColor=fff&style=for-the-badge)]
-  [![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logo=vcpkg&logoColor=fff&style=for-the-badge)]
+  [![valgrind Badge](https://img.shields.io/badge/valgrind-a89332?logo=valgrind&logoColor=fff&style=for-the-badge)](https://valgrind.org/)
+  [![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logo=vcpkg&logoColor=fff&style=for-the-badge)](https://vcpkg.io/en/)
   [![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)]
   [![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)]
   [![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge)]
