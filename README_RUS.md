@@ -70,7 +70,7 @@
 <!-- Форматы данных и обмен данными -->
 
 <details open> 
-<summary> 🗄 Форматы данных и обмен данными </summary>
+<summary> 🗄 Форматы данных и обмен данными: </summary>
   <br>
   
   ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
