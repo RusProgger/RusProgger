@@ -27,22 +27,58 @@ Here's a bit more about me:
 - 🎓 I believe in the power of knowledge-sharing and open source.
 - ✈️ I love traveling and discovering new places around the world
 
-## ⚙️ Tech Stack
+## ⚙️ Core Technologies
 
+<!-- System Development -->
 <details open>
-  <summary>📝 Programming languages: </summary>
+  <summary>📝 Systems Development: </summary>
   <br>
   
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-  ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-  ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
   ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
-  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
   <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
 </details>
+
+<!-- Scripting & Automation -->
+
+<details open> 
+<summary> 🐍 Scripting & Automation: </summary>
+  <br>
+  
+  ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+  ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+</details>
+
+<!-- Web Technologies -->
+
+<details open> 
+<summary> 🌐 Web Technologies: </summary>
+  <br>
+  
+  ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397)
+  ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126)
+  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
+  ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
+  ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
+  
+</details>
+
+<!-- Data & Formats -->
+
+<details open> 
+<summary> 🗄 Data & Formats: </summary>
+  <br>
+  
+  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
+  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
+  
+</details>
+
+<!-- Tools -->
 
 <details open>
   <summary>🔧 Tools: </summary>
@@ -63,15 +99,14 @@ Here's a bit more about me:
 
 </details>
 
-
+<!-- Environments -->
 <details open>
-  <summary>🖥️ Operating systems: </summary>
+  <summary>🖥 Environments: </summary>
   
   <br>
   
   ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
   ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge) 
-
   
 </details>
 
