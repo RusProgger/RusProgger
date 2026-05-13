@@ -27,6 +27,11 @@
 - 🚀 Постоянно изучаю новые технологии и совершенствую свои навыки.
 - 🌍 Интересуюсь open source, архитектурой программного обеспечения и современной веб-разработкой.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;C%2B%2B+Developer;Rust+Enthusiast;Building+Modern+Web+Apps" />
+</p>
+
+
 ## ⚙️ Основной стек технологий
 
 <!-- Системная разработка -->
