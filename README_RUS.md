@@ -115,7 +115,11 @@
   
 </details>
 
+<!-- Streak stats -->
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=ru" width="100%" />
+</p>
 
 
 
