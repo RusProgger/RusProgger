@@ -115,9 +115,11 @@ I'm a developer focused on modern web technologies and low-level programming.
   
 </details>
 
-<!-- GitHub Stats -->
+<!-- Streak stats -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=uk&short_numbers=false&date_format=M%20j%2C%20Y)
+![GitHub Streak](https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=en&<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=en" width="100%" />
+</p>
 
 
 
