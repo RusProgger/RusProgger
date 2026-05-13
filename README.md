@@ -14,18 +14,18 @@
 </div>
 
 
-# Hi there! 👋
+# Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I'm a passionate C++ developer who loves creating impactful and innovative projects. 
-
-Here's a bit more about me:
+I'm a developer focused on modern web technologies and low-level programming.
 
 ## 🌟 About Me
 
-- 💻 I specialize in C++, but I enjoy exploring other technologies and languages as well.
-- 🚀 I'm always eager to learn new things and take on new challenges.
-- 🎓 I believe in the power of knowledge-sharing and open source.
-- ✈️ I love traveling and discovering new places around the world
+- 💻 I work with Front-end development and C++.
+- ⚛️ Currently learning and building projects with React, TypeScript, and modern JavaScript.
+- 🎨 I enjoy creating responsive and user-friendly interfaces.
+- 🧠 I also have experience with low-level programming concepts, memory management, and pointer arithmetic in C++.
+- 🚀 Always learning new technologies and improving my skills.
+- 🌍 Interested in open source, software architecture, and modern web development.
 
 ## ⚙️ Core Technologies
 
