@@ -115,6 +115,15 @@ I'm a developer focused on modern web technologies and low-level programming.
   
 </details>
 
+<!-- GitHub Stats -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RusProgger&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusProgger&layout=compact&theme=tokyonight" />
+</p>
 
 
 
