@@ -7,7 +7,7 @@
 
 <h3>
   <a href="README.md">🇺🇸 English</a> |
-  <a href="README_RUS.md">🇷🇺 Русский</a> | 
+  <a href="README_RUS.md">🇷🇺 Русский</a>  
   <!-- <a href="README_UK.md">🇺🇦 Українська</a> -->
   </h3>
 
