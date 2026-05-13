@@ -6,7 +6,7 @@
   <h1>🌐 Select language</h1>
 
 <h3>
-  <a href="README.md">🇺🇸 English</a> |
+  <!-- <a href="README.md">🇺🇸 English</a> | -->
   <a href="README_RUS.md">🇷🇺 Русский</a> |
   <a href="README_UA.md">🇺🇦 Українська</a>
   </h3>
