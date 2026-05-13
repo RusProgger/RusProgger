@@ -114,3 +114,9 @@
   [![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge)](https://www.microsoft.com/en-us/windows/) 
   
 </details>
+
+<!-- Streak stats -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=uk" width="100%" />
+</p>
