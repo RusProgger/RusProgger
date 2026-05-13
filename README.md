@@ -14,7 +14,7 @@
 </div>
 
 
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile! 👋
 
 I'm a developer focused on modern web technologies and low-level programming.
 
