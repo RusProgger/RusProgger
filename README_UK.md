@@ -67,10 +67,10 @@
   
 </details>
 
-<!-- Форматы данных и обмен данными -->
+<!-- Формати даних та обмін даними -->
 
 <details open> 
-<summary> 🗄 Форматы данных и обмен данными: </summary>
+<summary> 🗄 Формати даних та обмін даними: </summary>
   <br>
   
   [![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)](https://www.sqlite.org/docs.html)
@@ -78,10 +78,10 @@
   
 </details>
 
-<!-- Инструменты и система сборки -->
+<!-- Інструменти та системи збірки -->
 
 <details open>
-  <summary>🔧 Инструменты и система сборки: </summary>
+  <summary>🔧 Інструменти та системи збірки: </summary>
 
   <br>
   
@@ -99,9 +99,9 @@
 
 </details>
 
-<!-- Операционные системы -->
+<!-- Операційні системи -->
 <details open>
-  <summary>🖥 Операционные системы: </summary>
+  <summary>🖥 Операційні системи: </summary>
   
   <br>
   
