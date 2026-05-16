@@ -120,3 +120,16 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=uk" width="100%" />
 </p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" />
+
+<!-- Портфолио -->
+
+## ⚙️ Портфолио
+
+|    💻 Язык    | 🧾 Описание | 🔗 Ссылка |
+|------------|----------------|--------|
+|            ⚙️ C++            | StringHelp — это лёгкая header-only библиотека для работы с регистром строк в C++.   | https://github.com/RusProgger/StringHelp |
+|            ⚙️ C++            | BinaryLab — это простой консольный инструмент для работы с двоичным представлением чисел. Проект позволяет пользователю вводить десятичное число и наглядно видеть его двоичное представление в удобном и структурированном виде. Он создан как обучающий инструмент для понимания того, как числа хранятся и обрабатываются на уровне битов.  | https://github.com/RusProgger/BinaryLab |
