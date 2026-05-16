@@ -121,12 +121,9 @@ I'm a developer focused on modern web technologies and low-level programming.
   <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=en" width="100%" />
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="50%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="50%" />
-
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RusProgger&hide_progress=hidden)
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" />
 
 
 <!-- Table portfolio -->
