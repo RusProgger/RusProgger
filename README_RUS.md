@@ -129,8 +129,10 @@
 
 | 💻 Язык | 🧾 Описание | 🔗 Ссылка |
 |------------|----------------|--------|
-|       ⚙️ C++       | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
-|       ⚙️ C++       | BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
+|       ⚙️ C++       | StringHelp — это лёгкая header-only библиотека для работы с регистром строк в C++.   | https://github.com/RusProgger/StringHelp |
+|       ⚙️ C++       | BinaryLab — это простой консольный инструмент для работы с двоичным представлением чисел.
+
+Проект позволяет пользователю вводить десятичное число и наглядно видеть его двоичное представление в удобном и структурированном виде. Он создан как обучающий инструмент для понимания того, как числа хранятся и обрабатываются на уровне битов.  | https://github.com/RusProgger/BinaryLab |
 
 
 
