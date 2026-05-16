@@ -124,7 +124,18 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-
+<table width="100%">
+  <tr>
+    <td width="33%">Language</td>
+    <td width="33%">Discription</td>
+    <td width="33%">Link</td>
+  </tr>
+  <tr>
+    <td width="33%">Language</td>
+    <td width="33%">Discription</td>
+    <td width="33%">Link</td>
+  </tr>
+</table>
 
 
 
