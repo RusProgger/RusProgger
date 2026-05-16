@@ -129,7 +129,7 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 | 💻 Language | 🧾 Description | 🔗 Link |
 |------------|----------------|--------|
-|  ⚙️ C++     | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
+|   ⚙️ C++     | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
 | ⚛️ JavaScript | Frontend, web apps, UI logic | https://github.com/username/project |
 | ☕ Java      | Enterprise apps, backend systems | https://github.com/username/project |
 
