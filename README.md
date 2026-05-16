@@ -123,6 +123,8 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" />
+
 <!-- Table portfolio -->
 
 ## ⚙️ Portfolio
