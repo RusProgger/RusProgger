@@ -126,14 +126,14 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <table width="100%">
   <tr>
-    <td width="33%">Language</td>
-    <td width="33%">Discription</td>
-    <td width="33%">Link</td>
+    <td>Language</td>
+    <td>Discription</td>
+    <td>Link</td>
   </tr>
   <tr>
-    <td width="33%">Language</td>
-    <td width="33%">Discription</td>
-    <td width="33%">Link</td>
+    <td>Language</td>
+    <td>Discription</td>
+    <td>Link</td>
   </tr>
 </table>
 
