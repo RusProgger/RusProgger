@@ -125,13 +125,8 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-<table width="100%">
-  <tr width="100%">
-    <td align="center" width="33%">Колонка 1</td>
-    <td align="center" width="33%">Колонка 2</td>
-    <td align="center" width="33%">Колонка 3</td>
-  </tr>
-</table>
-
+| 💻 Language | 🧾 Description | 🔗 Link |
+|------------|----------------|--------|
+| 🐍 Python   | Backend, automation, AI tools | https://github.com/username/project |
 
 
