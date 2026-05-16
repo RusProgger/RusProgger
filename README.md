@@ -127,7 +127,7 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-## ⚙️ Portfolio
+## 💼 Portfolio
 
 | 💻 Language | 🧾 Description | 🔗 Link |
 |------------|----------------|--------|
