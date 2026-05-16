@@ -129,8 +129,8 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 | 💻 Language | 🧾 Description | 🔗 Link |
 |------------|----------------|--------|
-|   ⚙️ C++     | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
-|   ⚙️ C++     | BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
+|       ⚙️ C++       | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
+|       ⚙️ C++       | BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
 
 
 
