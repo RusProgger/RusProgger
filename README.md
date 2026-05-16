@@ -124,16 +124,11 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-<table width="100%">
+<table style="width:100%;">
   <tr>
-    <td>Language</td>
-    <td>Discription</td>
-    <td>Link</td>
-  </tr>
-  <tr>
-    <td>Language</td>
-    <td>Discription</td>
-    <td>Link</td>
+    <td style="width:33%;">Колонка 1</td>
+    <td style="width:33%;">Колонка 2</td>
+    <td style="width:33%;">Колонка 3</td>
   </tr>
 </table>
 
