@@ -121,7 +121,7 @@ I'm a developer focused on modern web technologies and low-level programming.
   <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=en" width="100%" />
 </p>
 
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm)
 
 <!-- Table portfolio -->
 
