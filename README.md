@@ -127,6 +127,8 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RusProgger&hide_progress=hidden)
 
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=RusProgger)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 <!-- Table portfolio -->
 
 ## 💼 Portfolio
