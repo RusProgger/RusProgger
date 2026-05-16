@@ -125,7 +125,7 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" />
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RusProgger-2005&hide_progress=hidden)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RusProgger&hide_progress=hidden)
 
 <!-- Table portfolio -->
 
