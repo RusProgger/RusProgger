@@ -125,7 +125,7 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-| 💻 Language | 🧾 Description | 🔗 Link |
+|      💻 Language       |      🧾 Description      |      🔗 Link      |
 |------------|----------------|--------|
 | 🐍 Python   | Backend, automation, AI tools | https://github.com/username/project |
 
