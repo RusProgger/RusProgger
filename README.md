@@ -125,10 +125,13 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-|  💻 Language  |  🧾 Description  |  🔗 Link  |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+## ⚙️ Portfolio
+
+| 💻 Language | 🧾 Description | 🔗 Link |
+|------------|----------------|--------|
+| ⚙️ C++     | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
+| ⚛️ JavaScript | Frontend, web apps, UI logic | https://github.com/username/project |
+| ☕ Java      | Enterprise apps, backend systems | https://github.com/username/project |
 
 
 
