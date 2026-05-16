@@ -125,10 +125,10 @@ I'm a developer focused on modern web technologies and low-level programming.
 
 <!-- Table portfolio -->
 
-|                    Фронтенд проекты       | Деплой                                                           | Репозиторий                                                      | Комментарий                                 |
-| --------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------- |
-| **🔷 React** | | |  | 
-| Приложение поиска данных | [🔗](https://akseee.github.io/pokesearch/) |[📦](https://github.com/akseee/pokesearch)  | SPA приложение, богато на фичи, есть SSR версия на next.js в ветке nextjs-ssr |
+|  💻 Language  |  🧾 Description  |  🔗 Link  |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
