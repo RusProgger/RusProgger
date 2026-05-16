@@ -121,5 +121,16 @@
   <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=ru" width="100%" />
 </p>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" />
+
+<!-- Портфолио -->
+
+## ⚙️ Портфолио
+
+| 💻 Язык | 🧾 Описание | 🔗 Ссылка |
+|------------|----------------|--------|
+|       ⚙️ C++       | A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
+|       ⚙️ C++       | BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
+
 
 
