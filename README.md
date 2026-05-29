@@ -134,7 +134,7 @@ I'm a developer focused on modern web technologies and low-level programming.
 |------------|----------------|--------|
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
-
+|![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| This is a C++ console application that retrieves and displays basic information about the computer using WinAPI.  | https://github.com/RusProgger/pcInfoTools |
 
 
 
