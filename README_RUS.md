@@ -133,6 +133,6 @@
 |------------|----------------|--------|
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| StringHelp — это лёгкая header-only библиотека для работы с регистром строк в C++.   | https://github.com/RusProgger/StringHelp |
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| BinaryLab — это простой консольный инструмент для работы с двоичным представлением чисел. Проект позволяет пользователю вводить десятичное число и наглядно видеть его двоичное представление в удобном и структурированном виде. Он создан как обучающий инструмент для понимания того, как числа хранятся и обрабатываются на уровне битов.  | https://github.com/RusProgger/BinaryLab |
-
+|![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| Это консольное приложение на C++, которое получает и отображает базовую информацию о компьютере с помощью WinAPI.  | https://github.com/RusProgger/pcInfoTools |
 
 
