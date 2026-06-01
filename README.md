@@ -5,6 +5,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Ruslan+Voronenko;Software+Developer;C%2B%2B+%7C+Windows+%7C+WinAPI;Interested+in+Rust+Development;Interested+in+Web+Development;Building+Useful+Software&color=00F7FF" />
 
+<br>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%Developer-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Web%20Developer-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
 <div align="center">
 
   <h3>🌐 Select language</h3>
