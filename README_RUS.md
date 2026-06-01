@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <h1>🌐 Выбор языка</h1>
+  <h3>🌐 Выбор языка</h3>
 
 <h3>
   <a href="README.md">🇺🇸 English</a> |
