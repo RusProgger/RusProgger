@@ -11,8 +11,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Software%Developer-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=fff" />
   <img src="https://img.shields.io/badge/Web%20Developer-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black" />
-
 </div>
+
+<br>
 
 <div align="center">
 
