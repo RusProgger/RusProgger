@@ -31,9 +31,9 @@ I'm a developer focused on modern web technologies and low-level programming.
 - 🚀 Always learning new technologies and improving my skills.
 - 🌍 Interested in open source, software architecture, and modern web development.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;C%2B%2B+Developer;Rust+Enthusiast;Building+Modern+Web+Apps" />
-</p>
+</p> -->
 
 
 ## ⚙️ Core Technologies
