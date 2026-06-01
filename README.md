@@ -26,6 +26,8 @@
 
 </div>
 
+<br>
+
 
 # Welcome to my GitHub profile! 👋
 
