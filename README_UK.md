@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%Developer-00F7FF?style=for-the-badge&logo=cplusplus&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Web%20Developer-00F7FF?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Software%Developer-2a9abd?style=for-the-badge&logo=cplusplus&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Web%20Developer-2a9abd?style=for-the-badge&logo=powerbi&logoColor=fff" />
 </div>
 
 <br>
