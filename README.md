@@ -57,6 +57,7 @@ I'm a developer focused on modern web technologies and low-level programming.
   
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+  ![WinApi](https://img.shields.io/badge/Software%20Developer-2a9abd?style=for-the-badge&logo=cplusplus&logoColor=fff)
   ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
   <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
 </details>
