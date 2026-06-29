@@ -7,107 +7,72 @@
 
   <img src="https://img.shields.io/badge/Software%20Developer-2a9abd?style=for-the-badge&logo=cplusplus&logoColor=fff" />
   <img src="https://img.shields.io/badge/Web%20Developer-2a9abd?style=for-the-badge&logo=powerbi&logoColor=fff" />
-
-  <img src="https://komarev.com/ghpvc/?username=RusProgger&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=RusProgger&label=Profile%20Views&color=2a9abd&style=for-the-badge" />
+  
 </div>
 
 <br>
+<div align="center">
 
 ## 🌟 About Me
 
-- 💻 I work with development C++.
-- 🧠 I also have experience with low-level programming concepts, memory management, and pointer arithmetic in C++.
-- 🚀 Always learning new technologies and improving my skills.
-- 🌍 Interested in open source, software architecture.
+💻 I specialize in C++ development. <br>
+🧠 Experienced with low-level programming, memory management, and pointer arithmetic in C++.<br>
+🚀 Continuously learning and improving my skills.<br>
+🌍 Interested in open source and software architecture.<br>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;C%2B%2B+Developer;Rust+Enthusiast;Building+Modern+Web+Apps" />
-</p> -->
+<br>
+</div>
 
 
-## ⚙️ Core Technologies
 
-<!-- System Development -->
-<details open>
-  <summary>📝 Systems Development: </summary>
-  <br>
-  
-  ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
-  ![WinApi](https://img.shields.io/badge/Windows%20API-2a9abd?style=for-the-badge&logo=cplusplus&logoColor=fff)
-  ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge)
-  <!-- ![Perl](https://img.shields.io/badge/Perl-0073A1?logo=perl&logoColor=fff&style=for-the-badge) -->
-</details>
+<div align = "center"> 
 
-<!-- Scripting & Automation -->
+## 💻 Programming Languages:
 
-<details open> 
-<summary> 🐍 Scripting & Automation: </summary>
-  <br>
-  
-  ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-  ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
-  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-</details>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,php" />
 
-<!-- Web Technologies -->
+<br>
 
-<details open> 
-<summary> 🌐 Web Technologies: </summary>
-  <br>
-  
-  ![html](https://github.com/RusProgger/RusProgger/assets/105813644/be45eace-63b7-47a4-8bf9-c7325788e397)
-  ![css](https://github.com/RusProgger/RusProgger/assets/105813644/039c2cbc-20dc-4a75-bde4-a74e56f98126)
-  ![sass](https://github.com/RusProgger/RusProgger/assets/105813644/be19e816-fd58-4930-ad3a-e022b931e1b5)
-  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-  ![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-  ![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=for-the-badge)
-  
-</details>
+## 🐍 Scripting & Automation:
 
-<!-- Data & Formats -->
+<img src="https://skillicons.dev/icons?i=js,lua,python,bash" />
 
-<details open> 
-<summary> 🗄 Data & Formats: </summary>
-  <br>
-  
-  ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
-  ![XML Badge](https://img.shields.io/badge/XML-005FAD?logo=xml&logoColor=fff&style=for-the-badge)
-  
-</details>
+<br>
 
-<!-- Tools -->
+## 🗄 Data & Formats:
 
-<details open>
-  <summary>🔧 Tools: </summary>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" /> 
 
-  <br>
-  
-  ![Cmake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge)
-  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-  ![valgrind Badge](https://img.shields.io/badge/valgrind-a89332?logo=valgrind&logoColor=fff&style=for-the-badge)
-  ![vcpkg](https://img.shields.io/badge/vcpkg-0078D4?logo=vcpkg&logoColor=fff&style=for-the-badge)
-  ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
-  ![git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
-  ![github](https://img.shields.io/badge/GitHub-F05032?logo=github&logoColor=fff&style=for-the-badge) 
-  <!--![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
-  <!-- ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge) -->
-  <!-- ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=for-the-badge) -->
-  <!-- ![SVN](https://img.shields.io/badge/-SVN%20-000000?style=for-the-badge&logoColor=white) -->
+<br>
 
-</details>
+## 🔧 Tools:
 
-<!-- Environments -->
-<details open>
-  <summary>🖥 Environments: </summary>
-  
-  <br>
-  
-  ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) 
-  ![windows](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge) 
-  
-</details>
+<img src="https://skillicons.dev/icons?i=cmake,gtk,docker,git,github,gitlab" /> 
+
+<br>
+
+## 🖥 Environments:
+
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Activity:
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+
+
+</div>
+
 
 <!-- Streak stats -->
 
