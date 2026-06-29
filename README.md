@@ -1,47 +1,24 @@
-<!-- ![images](https://github.com/RusProgger/RusProgger/blob/site/499995670_9521682207943723_3238951708364683097_n.jpg) -->
-<!--![images](https://github.com/RusProgger/RusProgger/blob/site/5r1b8.jpg) -->
-<!--![images](https://github.com/RusProgger/RusProgger/blob/site/ukraine_header.png) -->
-
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Ruslan+Voronenko;Software+Developer;C%2B%2B+%7C+Windows+%7C+WinAPI;Interested+in+Rust+Development;Interested+in+Web+Development;Building+Useful+Software&color=00F7FF" />
-
-<br>
-<br>
+<!-- ![images](https://github.com/RusProgger/RusProgger/blob/site/ukraine_header.png) -->
+![pc header](pc_header.png)
 
 <div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Ruslan+Voronenko;Software+Developer;C%2B%2B+%7C+Windows+%7C+WinAPI;Interested+in+Rust+Development;Interested+in+Web+Development;Building+Useful+Software&color=00F7FF" />
+
   <img src="https://img.shields.io/badge/Software%20Developer-2a9abd?style=for-the-badge&logo=cplusplus&logoColor=fff" />
   <img src="https://img.shields.io/badge/Web%20Developer-2a9abd?style=for-the-badge&logo=powerbi&logoColor=fff" />
+
+  <img src="https://komarev.com/ghpvc/?username=RusProgger&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </div>
 
 <br>
-
-<div align="center">
-
-  <h3>🌐 Select language</h3>
-
-<h3>
-  <!-- <a href="README.md">🇺🇸 English</a> | -->
-  <a href="README_RUS.md">🇷🇺 Русский</a> |
-  <a href="README_UK.md">🇺🇦 Українська</a>
-  </h3>
-
-</div>
-
-<br>
-
-
-# Welcome to my GitHub profile! 👋
-
-I'm a developer focused on modern web technologies and low-level programming.
 
 ## 🌟 About Me
 
-- 💻 I work with Front-end development and C++.
-- ⚛️ Currently learning and building projects with React, TypeScript, and modern JavaScript.
-- 🎨 I enjoy creating responsive and user-friendly interfaces.
+- 💻 I work with development C++.
 - 🧠 I also have experience with low-level programming concepts, memory management, and pointer arithmetic in C++.
 - 🚀 Always learning new technologies and improving my skills.
-- 🌍 Interested in open source, software architecture, and modern web development.
+- 🌍 Interested in open source, software architecture.
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Front-End+Developer;C%2B%2B+Developer;Rust+Enthusiast;Building+Modern+Web+Apps" />
