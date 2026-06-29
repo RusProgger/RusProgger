@@ -68,7 +68,7 @@
 
 ## 📈 Contribution Activity:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=2EA043&line=2EA043&point=ffffff&hide_border=true"/>
 
 
 </div>
