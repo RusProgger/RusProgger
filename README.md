@@ -18,6 +18,8 @@
 
 ## 🌟 About Me
 
+<br>
+
 💻 I specialize in C++ development. <br>
 🧠 Experienced with low-level programming, memory management, and pointer arithmetic in C++.<br>
 🚀 Continuously learning and improving my skills.<br>
@@ -34,31 +36,31 @@
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,php" />
 
-<br>
+<br><br>
 
 ## 🐍 Scripting & Automation:
 
 <img src="https://skillicons.dev/icons?i=js,lua,python,bash" />
 
-<br>
+<br><br>
 
 ## 🗄 Data & Formats:
 
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" /> 
 
-<br>
+<br><br>
 
 ## 🔧 Tools:
 
 <img src="https://skillicons.dev/icons?i=cmake,gtk,docker,git,github,gitlab" /> 
 
-<br>
+<br><br>
 
 ## 🖥 Environments:
 
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 
-<br>
+<br><br>
 
 </div>
 
