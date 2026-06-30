@@ -84,7 +84,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RusProgger&theme=calm" width="100%" /> -->
 
 
 <!-- Table portfolio -->
@@ -96,9 +96,12 @@
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| This is a C++ console application that retrieves and displays basic information about the computer using WinAPI.  | https://github.com/RusProgger/pcInfoTools |
  -->
 
- ## 💼 Portfolio
+<div align="center">
 
-### 📚 StringHelp
+ ## 💼 Portfolio:
+
+
+ ### 📚 StringHelp
 
 <img src="images/stringHelp.jpg" width="650">
 
@@ -134,5 +137,11 @@ Windows console application using WinAPI to display system information.
 `C++` `WinAPI`
 
 🔗 https://github.com/RusProgger/pcInfoTools
+
+ </div>
+
+
+
+
 
 
