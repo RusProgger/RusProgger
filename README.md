@@ -98,14 +98,14 @@
 
 <div align="center">
 
- ## 💼 Portfolio:
+ # 💼 Portfolio:
 
 
- ### 📚 StringHelp
+ ## 📚 StringHelp
+
+ Lightweight C++ library for string manipulation, providing utility functions for uppercase, lowercase, and capitalization of strings.
 
 <img src="images/stringHelp.jpg" width="650">
-
-Lightweight C++ library for string manipulation.
 
 **Tech**
 `C++` `STL`
