@@ -114,11 +114,11 @@
 
 ---
 
-### 🔢 BinaryLab
+## 🔢 BinaryLab
+
+BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals. 
 
 <img src="images/BinaryLab.jpg" width="650">
-
-Console application for studying binary numbers, bitwise operations and low-level programming.
 
 **Tech**
 `C++`
