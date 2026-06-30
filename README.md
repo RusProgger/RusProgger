@@ -127,11 +127,11 @@ BinaryLab is a simple console tool for working with binary representations of nu
 
 ---
 
-### 🖥️ pcInfoTools
-
-<img src="images/pcInfoTool.jpg" width="650">
+## 🖥️ pcInfoTools
 
 Windows console application using WinAPI to display system information.
+
+<img src="images/pcInfoTool.jpg" width="650">
 
 **Tech**
 `C++` `WinAPI`
