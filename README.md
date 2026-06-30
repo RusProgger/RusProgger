@@ -138,6 +138,19 @@ Windows console application using WinAPI to display system information.
 
 🔗 https://github.com/RusProgger/pcInfoTools
 
+---
+
+## 🖥️ NetworkRepairTool
+
+Network Repair Tool is a Windows utility designed to automatically diagnose and restore network functionality when users experience internet connection problems, instability, or DNS/network configuration errors.
+
+<img src="images/NetworkRepairTools.jpg" width="650">
+
+**Tech**
+`C++` `WinAPI`
+
+🔗 https://github.com/RusProgger/NetworkRepairTool
+
  </div>
 
 
