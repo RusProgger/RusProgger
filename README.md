@@ -44,7 +44,7 @@
 
 <br>
 
-## 🗄 Data & Formats:
+## 🗄 DataBased:
 
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" /> 
 
