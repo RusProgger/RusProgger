@@ -38,11 +38,11 @@
 
 <br>
 
-## 🐍 Scripting & Automation:
+<!-- ## 🐍 Scripting & Automation:
 
 <img src="https://skillicons.dev/icons?i=js,lua,python,bash" />
 
-<br>
+<br> -->
 
 ## 🗄 Database:
 
