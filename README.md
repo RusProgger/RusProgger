@@ -38,11 +38,11 @@
 
 <br>
 
-<!-- ## 🐍 Scripting & Automation:
+## 💻 Front-end Development:
 
-<img src="https://skillicons.dev/icons?i=js,lua,python,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,pug" />
 
-<br> -->
+<br>
 
 ## 🗄 Database:
 
