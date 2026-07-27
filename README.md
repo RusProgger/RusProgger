@@ -38,7 +38,7 @@
 
 <br>
 
-## ⚡ Front-end Development:
+## 🌐 Front-end Development:
 
 <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,pug" />
 
