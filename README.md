@@ -78,9 +78,9 @@
 
 <!-- Streak stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=RusProgger&theme=tokyonight&hide_border=true&locale=en" width="100%" />
-</p>
+</p> -->
 
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusProgger&theme=calm" width="100%" /> -->
 
