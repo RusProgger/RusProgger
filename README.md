@@ -94,11 +94,24 @@
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| This is a C++ console application that retrieves and displays basic information about the computer using WinAPI.  | https://github.com/RusProgger/pcInfoTools | -->
 
 
- 
 
 <div align="center">
 
 ## 💼 Portfolio:
+
+<div align="center">
+
+### 🧩 What I Build
+
+<br>
+
+<img src="https://img.shields.io/badge/System%20Utilities-2a9abd?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows%20Software-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B%20Libraries-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Developer%20Tools-6C63FF?style=for-the-badge&logo=devdotto&logoColor=white">
+<img src="https://img.shields.io/badge/Web%20Projects-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+</div>
 
 <br>
 
@@ -197,11 +210,6 @@ Designed to diagnose common network problems and restore connectivity by repairi
 
 ---
 
-### 🧩 What I Build
-
-System Utilities · Windows Software · C++ Libraries · Developer Tools · Web Projects
-
-</div>
 
 
 
