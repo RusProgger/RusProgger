@@ -285,9 +285,9 @@ Responsive frontend project with modern UI.
 
 <td width="50%" valign="top" align="center">
 
-### 🌐 Car mersbens
+### 🌐 Cloud
 
-<img src="images/frontend/bens.jpg" width="100%">
+<img src="images/frontend/cloud.jpg width="100%">
 
 Responsive frontend project with modern UI.
 
@@ -297,12 +297,13 @@ Responsive frontend project with modern UI.
 
 <br><br>
 
-<a href="https://rusprogger.github.io/mersbens/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://github.com/RusProgger/mersbens"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
+<a href="https://github.com/RusProgger/cloud"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://rusprogger.github.io/cloud/"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
 
 </td>
 
-
 </tr>
+
+<!-- end 2 cols -->
 
 </table>
 
