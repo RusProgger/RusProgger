@@ -206,9 +206,9 @@ Designed to diagnose common network problems and restore connectivity by repairi
 
 <br>
 
-<div align="center">
-
 ---
+
+
 
 
 
