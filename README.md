@@ -245,7 +245,7 @@ Modern responsive web interface.
 
 ### 🌐 Another Project
 
-<img src="images/project2.jpg" width="100%">
+<img src="images/frontend/bens.jpg" width="100%">
 
 Responsive frontend project with modern UI.
 
