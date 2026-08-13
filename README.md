@@ -64,14 +64,12 @@
 
 </div>
 
----
 
 <div align="center">
 
 ## 📈 Contribution Activity:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=2EA043&line=2EA043&point=ffffff&hide_border=true"/>
-
 
 </div>
 
@@ -93,65 +91,121 @@
 |------------|----------------|--------|
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| A lightweight C++ library for string manipulation, including uppercase, lowercase, and capitalization.  | https://github.com/RusProgger/StringHelp |
 |![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals.  | https://github.com/RusProgger/BinaryLab |
-|![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| This is a C++ console application that retrieves and displays basic information about the computer using WinAPI.  | https://github.com/RusProgger/pcInfoTools |
- -->
+|![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)| This is a C++ console application that retrieves and displays basic information about the computer using WinAPI.  | https://github.com/RusProgger/pcInfoTools | -->
+
+
+ 
 
 <div align="center">
 
- # 💼 PORTFOLIO:
+## 💼 Portfolio:
+
+<br>
+
+### 💻 C++ Projects
 
 
- ## 📚 StringHelp
+<p>
+Native applications, utilities and libraries built with C++.
+</p>
 
- Lightweight C++ library for string manipulation, providing utility functions for uppercase, lowercase, and capitalization of strings.
-
-<img src="images/stringHelp.jpg" width="650">
-
-**Tech**
-`C++` `STL`
-
-🔗 https://github.com/RusProgger/StringHelp
-
----
-
-## 🔢 BinaryLab
-
-BinaryLab is a simple console tool for working with binary representations of numbers. This project was created as part of learning low-level programming concepts in C++ and computer graphics fundamentals. 
-
-<img src="images/BinaryLab.jpg" width="650">
-
-**Tech**
-`C++`
-
-🔗 https://github.com/RusProgger/BinaryLab
+<br>
 
 ---
 
-## 🖥️ pcInfoTools
+<table> <tr>
 
-Windows console application using WinAPI to display system information.
+<td width="50%" valign="top" align="center">
 
-<img src="images/pcInfoTool.jpg" width="650">
+### 🔤 StringHelp
 
-**Tech**
-`C++` `WinAPI`
+<img src="images/stringHelp.jpg" width="100%">
 
-🔗 https://github.com/RusProgger/pcInfoTools
+Lightweight C++ string utility library
+
+Useful functions for string transformation, including uppercase, lowercase and capitalization.
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/STL-2C2C2C?style=flat-square&logo=cplusplus&logoColor=white">
+
+<a href="https://github.com/RusProgger/StringHelp"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+
+### 🔢 BinaryLab
+
+<img src="images/BinaryLab.jpg" width="100%">
+
+Binary representation & low-level programming tool
+
+A lightweight console application for working with binary representations of numbers.
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+
+<a href="https://github.com/RusProgger/BinaryLab"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🖥️ pcInfoTools
+
+<img src="images/pcInfoTool.jpg" width="100%">
+
+Windows system information utility
+
+A native Windows console application for collecting and displaying system information using WinAPI.
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
+
+<a href="https://github.com/RusProgger/pcInfoTools"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🌐 NetworkRepairTool
+
+<img src="images/NetworkRepairTools.jpg" width="100%">
+
+Windows network diagnostics & repair utility
+
+Designed to diagnose common network problems and restore connectivity by repairing network configuration.
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
+
+<a href="https://github.com/RusProgger/NetworkRepairTool"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
+
+</td>
+
+</tr> </table>
+
+</div>
+
+<br>
+
+<div align="center">
 
 ---
 
-## 🖥️ NetworkRepairTool
+### 🧩 What I Build
 
-Network Repair Tool is a Windows utility designed to automatically diagnose and restore network functionality when users experience internet connection problems, instability, or DNS/network configuration errors.
+System Utilities · Windows Software · C++ Libraries · Developer Tools · Web Projects
 
-<img src="images/NetworkRepairTools.jpg" width="650">
+</div>
 
-**Tech**
-`C++` `WinAPI`
 
-🔗 https://github.com/RusProgger/NetworkRepairTool
-
- </div>
 
 
 
