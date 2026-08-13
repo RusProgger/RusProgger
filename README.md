@@ -255,7 +255,7 @@ Responsive frontend project with modern UI.
 
 <br><br>
 
-<a href="https://rusprogger.github.io/mersbens/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://github.com/RusProgger/mersbens"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
+<a href="https://github.com/RusProgger/mersbens"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://rusprogger.github.io/mersbens/"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
 
 </td>
 
