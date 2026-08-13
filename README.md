@@ -111,8 +111,6 @@ Native applications, utilities and libraries built with C++.
 
 <br>
 
----
-
 <table> <tr>
 
 <td width="50%" valign="top" align="center">
