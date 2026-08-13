@@ -260,6 +260,50 @@ Responsive frontend project with modern UI.
 </td>
 
 </tr>
+
+
+<!-- cols 2 -->
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🌐 BlackSea
+
+<img src="images/frontend/blacksea.jpg" width="100%">
+
+Responsive frontend project with modern UI.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://rusprogger.github.io/blacksea/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://github.com/RusProgger/blacksea"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🌐 Car mersbens
+
+<img src="images/frontend/bens.jpg" width="100%">
+
+Responsive frontend project with modern UI.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://rusprogger.github.io/mersbens/"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://github.com/RusProgger/mersbens"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
+
+</td>
+
+
+</tr>
+
 </table>
 
 </div>
