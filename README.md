@@ -202,11 +202,75 @@ Designed to diagnose common network problems and restore connectivity by repairi
 
 </tr> </table>
 
-</div>
+</div> <!-- End div -->
 
 <br>
 
+<!-- html -->
+
 ---
+
+<div align="center">
+
+### 🌐 Web Projects
+
+<p>
+Frontend interfaces and web applications built with modern web technologies.
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🖥️ Automaster
+
+<img src="images/frontend/automaster.jpg" width="100%">
+
+Modern responsive web interface.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://github.com/...">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🌐 Another Project
+
+<img src="images/project2.jpg" width="100%">
+
+Responsive frontend project with modern UI.
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://github.com/...">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+
+
 
 
 
