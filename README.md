@@ -287,7 +287,7 @@ Responsive frontend project with modern UI.
 
 ### 🌐 Cloud
 
-<img src="images/frontend/cloud.jpg width="100%">
+<img src="images/frontend/cloud.jpg" width="100%">
 
 Responsive frontend project with modern UI.
 
