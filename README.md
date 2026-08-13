@@ -243,7 +243,7 @@ Modern responsive web interface.
 
 <td width="50%" valign="top" align="center">
 
-### 🌐 Another Project
+### 🌐 Car mersbens
 
 <img src="images/frontend/bens.jpg" width="100%">
 
