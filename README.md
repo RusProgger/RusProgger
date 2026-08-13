@@ -235,7 +235,7 @@ Modern responsive web interface.
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-<br><br>
+<br>
 
 <a href="https://github.com/RusProgger/automaster"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;<a href="https://rusprogger.github.io/automaster/"><img src="https://img.shields.io/badge/LIVE%20DEMO-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black"></a>
 
