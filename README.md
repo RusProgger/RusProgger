@@ -237,7 +237,7 @@ Modern responsive web interface.
 
 <br><br>
 
-<a href="https://github.com/...">
+<a href="https://rusprogger.github.io/automaster/" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
