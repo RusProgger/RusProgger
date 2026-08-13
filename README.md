@@ -125,7 +125,7 @@ Useful functions for string transformation, including uppercase, lowercase and c
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/STL-2C2C2C?style=flat-square&logo=cplusplus&logoColor=white">
-
+<br><br>
 <a href="https://github.com/RusProgger/StringHelp"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
 
 </td>
@@ -142,7 +142,7 @@ Binary representation & low-level programming tool
 A lightweight console application for working with binary representations of numbers.
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-
+<br><br>
 <a href="https://github.com/RusProgger/BinaryLab"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
 
 </td>
@@ -164,7 +164,7 @@ A native Windows console application for collecting and displaying system inform
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
-
+<br><br>
 <a href="https://github.com/RusProgger/pcInfoTools"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
 
 </td>
@@ -182,7 +182,7 @@ Designed to diagnose common network problems and restore connectivity by repairi
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white">
-
+<br><br>
 <a href="https://github.com/RusProgger/NetworkRepairTool"> <img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"> </a>
 
 </td>
