@@ -58,7 +58,7 @@
 
 ## 🖥 Environments:
 
-<img src="https://skillicons.dev/icons?i=linux,windows" />
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,mint,ubuntu" />
 
 <br>
 
