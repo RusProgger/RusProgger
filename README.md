@@ -56,6 +56,23 @@
 
 <br>
 
+## 🛠️ Additional Tools:
+
+<p align="center">
+  <a href="https://github.com/comfyanonymous/ComfyUI">
+    <img src="https://img.shields.io/badge/ComfyUI-FF6B6B?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Stability-AI/stablediffusion">
+    <img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge">
+  </a>
+  <a href="https://github.com/lllyasviel/Fooocus">
+    <img src="https://img.shields.io/badge/Fooocus-4CAF50?style=for-the-badge">
+  </a>
+</p>
+
+
+<br>
+
 ## 🖥 Environments:
 
 <img src="https://skillicons.dev/icons?i=windows,linux,arch,mint,ubuntu" />
