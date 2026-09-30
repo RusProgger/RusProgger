@@ -34,7 +34,7 @@
 
 ## 💻 Programming Languages:
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,bash" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,bash,lua" />
 
 <br>
 
