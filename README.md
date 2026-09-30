@@ -40,7 +40,7 @@
 
 ## 🌐 Front-end Development:
 
-<img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,pug" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,pug" />
 
 <br>
 
