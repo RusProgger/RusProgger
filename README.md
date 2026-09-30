@@ -59,15 +59,15 @@
 ## 🛠️ Additional Tools:
 
 <p align="center">
-  <p>
-  <a href="https://github.com/comfyanonymous/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-FF6B6B?style=flat-square" alt="ComfyUI"></a>
-  <a href="https://github.com/Stability-AI/stablediffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=flat-square" alt="Stable Diffusion"></a>
-  <a href="https://github.com/lllyasviel/Fooocus"><img src="https://img.shields.io/badge/Fooocus-4CAF50?style=flat-square" alt="Fooocus"></a>
-</p>
+ <p align="center">
+    <a href="https://github.com/comfyanonymous/ComfyUI"><img src="https://img.shields.io/badge/ComfyUI-FF6B6B?style=for-the-badge" alt="ComfyUI"></a>
+    <a href="https://github.com/Stability-AI/stablediffusion"><img src="https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge" alt="Stable Diffusion"></a>
+    <a href="https://github.com/lllyasviel/Fooocus"><img src="https://img.shields.io/badge/Fooocus-4CAF50?style=for-the-badge" alt="Fooocus"></a>
+  </p>
 
 </p>
 
-<br>
+
 
 ## 🖥 Environments:
 
@@ -78,13 +78,15 @@
 </div>
 
 
+<!--
 <div align="center">
 
 ## 📈 Contribution Activity:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=2EA043&line=2EA043&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RusProgger&theme=github-dark&bg_color=0d1117&color=2EA043&line=2EA043&point=ffffff&hide_border=true"/>
 
 </div>
+-->
 
 
 <!-- Streak stats -->
