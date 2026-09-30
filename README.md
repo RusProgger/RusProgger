@@ -52,7 +52,7 @@
 
 ## 🔧 Tools:
 
-<img src="https://skillicons.dev/icons?i=cmake,gtk,docker,git,github,gitlab" /> 
+<img src="https://skillicons.dev/icons?i=cmake,gtk,docker,git,github,gitlab,vite" /> 
 
 <br>
 
